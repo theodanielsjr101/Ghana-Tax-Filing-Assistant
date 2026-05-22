@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-display: "Outfit", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+@layer utilities {
+  /* Print media utility override */
+  @media print {
+    body {
+      background-color: white !important;
+      color: black !important;
+    }
+    header, #gra-disclaimer-wrapper, #app-wizard-indicators, #step7-header, #filing-directions-box, #copy-pastable-panel-card, #step7-portal-linkage-row, #step7-controls, #persistent-footer-disclaimer {
+      display: none !important;
+    }
+    #applet-core-layout {
+      min-height: 0 !important;
+      padding-bottom: 0 !important;
+      background: white !important;
+    }
+    #primary-wizard-layout-sheet {
+      border: none !important;
+      box-shadow: none !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      background: white !important;
+    }
+    #app-steps-wrapper {
+      margin-top: 0 !important;
+    }
+  }
+}
