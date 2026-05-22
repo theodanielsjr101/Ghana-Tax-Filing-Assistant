@@ -1,0 +1,6 @@
+{
+  "name": "Ghana Tax Filing Assistant",
+  "description": "An interactive, client-side wizard to help Ghanaian taxpayers calculate their annual income tax, claim legitimate reliefs (per 2024 GRA tax bands), organize their required document checklists, and prepare for filing returns on GRA's Taxpayers Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
