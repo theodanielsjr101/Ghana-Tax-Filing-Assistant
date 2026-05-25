@@ -2,7 +2,6 @@
 
 A guided, step-by-step web app that helps Ghanaian taxpayers calculate their tax liability, prepare their documents, and file their returns on GRA's official portal — built for the 2024 filing season.
 
----
 
 ##  Overview
 
@@ -10,7 +9,7 @@ Filing taxes in Ghana is mandatory, but for many people — salaried workers, fr
 
 No backend. No accounts. No data sent anywhere. Everything runs in the browser.
 
----
+
 
 ##  Features
 
@@ -22,7 +21,7 @@ No backend. No accounts. No data sent anywhere. Everything runs in the browser.
 - **Step-by-Step Filing Guide** — Walks the user through GRA's taxpayersportal.com with their key figures formatted and ready to enter
 - **Fully Client-Side** — No data is stored or transmitted; everything stays on the user's device
 
----
+
 
 ##  Tech Stack Used
 
@@ -35,7 +34,7 @@ No backend. No accounts. No data sent anywhere. Everything runs in the browser.
 | Language | JavaScript (ES6+) |
 | Backend | None — fully client-side |
 
----
+
 
 ##  Getting Started
 
@@ -61,7 +60,7 @@ npm run dev
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
----
+
 
 ##  App Flow
 
@@ -75,11 +74,11 @@ Step 6 → Document Checklist
 Step 7 → Filing Guide → taxpayersportal.com
 ```
 
----
+
 
 ##  Contributing
 
-Contributions are welcome! Here's what you need to know:
+All contributions are welcome! Here's what you need to know:
 
 **You'll need to be comfortable with:**
 - React (hooks, component state)
@@ -97,7 +96,7 @@ Good first issues to tackle:
 3. Make your changes
 4. Open a pull request with a clear description of what you changed and why
 
----
+
 
 ##  Disclaimer
 
@@ -106,7 +105,7 @@ This tool is for **guidance only**. Tax figures and reliefs are based on publicl
 **Official GRA Filing Portal:** [taxpayersportal.com](https://taxpayersportal.com)
 **GRA Helpline:** 0800 900 110
 
----
+
 
 
 ##  Developed By
