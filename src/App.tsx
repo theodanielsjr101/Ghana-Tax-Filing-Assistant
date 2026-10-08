@@ -22,7 +22,7 @@ const INITIAL_DETAILS: PersonalDetails = {
   fullName: '',
   idType: 'ghana_card',
   idNumber: '',
-  taxYear: 2024,
+  taxYear: 2026,
   region: '',
   taxOffice: '',
 };
