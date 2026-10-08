@@ -14,7 +14,7 @@ export default function Disclaimer() {
         <span className="font-semibold text-slate-700" id="gra-disclaimer-title">Official GRA Disclaimer</span>
       </div>
       <p id="gra-disclaimer-text">
-        This tool is for guidance and educational purposes only. Calculations are estimations based on the 2024 Inland Revenue guidelines. Always verify final figures with a licensed tax practitioner or the Ghana Revenue Authority (GRA) directly before submitting returns.
+        This tool is for guidance and educational purposes only. Calculations are estimations based on the 2026 Inland Revenue guidelines. Always verify final figures with a licensed tax practitioner or the Ghana Revenue Authority (GRA) directly before submitting returns.
       </p>
     </div>
   );
