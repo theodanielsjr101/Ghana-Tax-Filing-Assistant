@@ -240,8 +240,8 @@ export default function StepPersonalDetails({
                 onChange={(e) => onChange({ ...details, taxYear: Number(e.target.value) })}
                 id="select-taxyear"
               >
-                <option value={2024}>2024 (Assessment Year)</option>
-                <option value={2023}>2023 (Previous Rules)</option>
+                <option value={2024}>2026 (Assessment Year)</option>
+                <option value={2023}>2025 (Previous Rules)</option>
               </select>
             </div>
           </div>
