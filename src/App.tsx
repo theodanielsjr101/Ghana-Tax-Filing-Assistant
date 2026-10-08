@@ -180,7 +180,7 @@ export default function App() {
           <div>
             <h1 className="text-xl font-bold text-slate-800 tracking-tight" id="brand-app-title">Ghana Tax Filing Assistant</h1>
             <p className="text-xs text-slate-500 font-medium flex items-center gap-1.5" id="brand-app-byline">
-              Official 2024 Filing Period
+              Official 2026 Filing Period
               <span className="text-slate-300 select-none">•</span>
               <span className="inline-flex items-center gap-1 text-[10.5px] font-bold text-[#006B3F] bg-[#006B3F]/10 px-1.5 py-0.5 rounded-md">
                 <span className="h-1.5 w-1.5 rounded-full bg-[#006B3F] animate-pulse"></span>
